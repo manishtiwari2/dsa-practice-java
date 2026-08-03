@@ -1,12 +1,12 @@
 {
-  "totalSolved": 6,
+  "totalSolved": 7,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-08-03",
-  "todayCount": 6,
+  "todayCount": 7,
   "difficultyCounts": {
     "easy": 3,
-    "medium": 1,
+    "medium": 2,
     "hard": 1,
     "basic": 1
   },
@@ -16,10 +16,11 @@
     "GeeksForGeeks_Array_with_All_Palindromes": true,
     "LeetCode_Move_Zeroes": true,
     "LeetCode_Sort_Colors": true,
-    "GeeksForGeeks_Equilibrium_Point": true
+    "GeeksForGeeks_Equilibrium_Point": true,
+    "LeetCode_Reverse_Integer": true
   },
   "activityHistory": {
-    "2026-08-03": 6
+    "2026-08-03": 7
   },
   "todayProblems": [
     "Stone Game III",
@@ -27,6 +28,7 @@
     "Array with All Palindromes",
     "Move Zeroes",
     "Sort Colors",
-    "Equilibrium Point"
+    "Equilibrium Point",
+    "Reverse Integer"
   ]
 }
