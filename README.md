@@ -5,3 +5,4 @@
 | 3 | [Array with All Palindromes](./GeeksForGeeks/Basic/Array%20with%20All%20Palindromes) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/palindromic-array-1587115620/1) | Basic | 03 Aug 2026 | 08:00 pm |
 | 4 | [Move Zeroes](./LeetCode/Easy/Move%20Zeroes) | [LeetCode](https://leetcode.com/problems/move-zeroes/) | Easy | 03 Aug 2026 | 08:10 pm |
 | 5 | [Sort Colors](./LeetCode/Medium/Sort%20Colors) | [LeetCode](https://leetcode.com/problems/sort-colors/) | Medium | 03 Aug 2026 | 08:20 pm |
+| 6 | [Equilibrium Point](./GeeksForGeeks/Easy/Equilibrium%20Point) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/equilibrium-point-1587115620/1) | Easy | 03 Aug 2026 | 08:43 pm |
