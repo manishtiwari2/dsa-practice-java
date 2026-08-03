@@ -1,12 +1,12 @@
 {
-  "totalSolved": 4,
+  "totalSolved": 5,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-08-03",
-  "todayCount": 4,
+  "todayCount": 5,
   "difficultyCounts": {
     "easy": 2,
-    "medium": 0,
+    "medium": 1,
     "hard": 1,
     "basic": 1
   },
@@ -14,15 +14,17 @@
     "LeetCode_Stone_Game_III": true,
     "GeeksForGeeks_Palindrome_Number": true,
     "GeeksForGeeks_Array_with_All_Palindromes": true,
-    "LeetCode_Move_Zeroes": true
+    "LeetCode_Move_Zeroes": true,
+    "LeetCode_Sort_Colors": true
   },
   "activityHistory": {
-    "2026-08-03": 4
+    "2026-08-03": 5
   },
   "todayProblems": [
     "Stone Game III",
     "Palindrome Number",
     "Array with All Palindromes",
-    "Move Zeroes"
+    "Move Zeroes",
+    "Sort Colors"
   ]
 }
