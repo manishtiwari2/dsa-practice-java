@@ -11,3 +11,4 @@
 | 9 | [Minimum Operations to Make the Array Increasing](./LeetCode/Easy/Minimum%20Operations%20to%20Make%20the%20Array%20Increasing) | [LeetCode](https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing/) | Easy | 04 Aug 2026 | 09:07 pm |
 | 10 | [Rotate Array by One](./GeeksForGeeks/Basic/Rotate%20Array%20by%20One) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1) | Basic | 04 Aug 2026 | 09:21 pm |
 | 11 | [Majority Element](./LeetCode/Easy/Majority%20Element) | [LeetCode](https://leetcode.com/problems/majority-element/) | Easy | 04 Aug 2026 | 09:39 pm |
+| 12 | [Find Missing Elements](./LeetCode/Easy/Find%20Missing%20Elements) | [LeetCode](https://leetcode.com/problems/find-missing-elements/) | Easy | 04 Aug 2026 | 10:07 pm |
