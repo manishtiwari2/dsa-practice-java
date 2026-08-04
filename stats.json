@@ -1,14 +1,14 @@
 {
-  "totalSolved": 9,
+  "totalSolved": 10,
   "currentStreak": 2,
   "maxStreak": 2,
   "lastSyncDate": "2026-08-04",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 5,
     "medium": 2,
     "hard": 1,
-    "basic": 1
+    "basic": 2
   },
   "syncedProblems": {
     "LeetCode_Stone_Game_III": true,
@@ -19,14 +19,16 @@
     "GeeksForGeeks_Equilibrium_Point": true,
     "LeetCode_Reverse_Integer": true,
     "GeeksForGeeks_Array_Leaders": true,
-    "LeetCode_Minimum_Operations_to_Make_the_Array_Increasing": true
+    "LeetCode_Minimum_Operations_to_Make_the_Array_Increasing": true,
+    "GeeksForGeeks_Rotate_Array_by_One": true
   },
   "activityHistory": {
     "2026-08-03": 7,
-    "2026-08-04": 2
+    "2026-08-04": 3
   },
   "todayProblems": [
     "Array Leaders",
-    "Minimum Operations to Make the Array Increasing"
+    "Minimum Operations to Make the Array Increasing",
+    "Rotate Array by One"
   ]
 }

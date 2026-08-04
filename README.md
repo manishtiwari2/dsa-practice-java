@@ -9,3 +9,4 @@
 | 7 | [Reverse Integer](./LeetCode/Medium/Reverse%20Integer) | [LeetCode](https://leetcode.com/problems/reverse-integer/) | Medium | 03 Aug 2026 | 08:49 pm |
 | 8 | [Array Leaders](./GeeksForGeeks/Easy/Array%20Leaders) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=practice_card) | Easy | 04 Aug 2026 | 08:46 pm |
 | 9 | [Minimum Operations to Make the Array Increasing](./LeetCode/Easy/Minimum%20Operations%20to%20Make%20the%20Array%20Increasing) | [LeetCode](https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing/) | Easy | 04 Aug 2026 | 09:07 pm |
+| 10 | [Rotate Array by One](./GeeksForGeeks/Basic/Rotate%20Array%20by%20One) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1) | Basic | 04 Aug 2026 | 09:21 pm |
