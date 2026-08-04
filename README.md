@@ -7,3 +7,4 @@
 | 5 | [Sort Colors](./LeetCode/Medium/Sort%20Colors) | [LeetCode](https://leetcode.com/problems/sort-colors/) | Medium | 03 Aug 2026 | 08:20 pm |
 | 6 | [Equilibrium Point](./GeeksForGeeks/Easy/Equilibrium%20Point) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/equilibrium-point-1587115620/1) | Easy | 03 Aug 2026 | 08:43 pm |
 | 7 | [Reverse Integer](./LeetCode/Medium/Reverse%20Integer) | [LeetCode](https://leetcode.com/problems/reverse-integer/) | Medium | 03 Aug 2026 | 08:49 pm |
+| 8 | [Array Leaders](./GeeksForGeeks/Easy/Array%20Leaders) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=practice_card) | Easy | 04 Aug 2026 | 08:46 pm |
