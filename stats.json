@@ -1,12 +1,12 @@
 {
-  "totalSolved": 15,
+  "totalSolved": 16,
   "currentStreak": 4,
   "maxStreak": 4,
   "lastSyncDate": "2026-08-06",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 8,
-    "medium": 4,
+    "medium": 5,
     "hard": 1,
     "basic": 2
   },
@@ -25,15 +25,17 @@
     "GeeksForGeeks_Majority_Element": true,
     "LeetCode_Find_Missing_Elements": true,
     "LeetCode_Remove_Methods_From_Project": true,
-    "LeetCode_Smallest_Divisible_Digit_Product_I": true
+    "LeetCode_Smallest_Divisible_Digit_Product_I": true,
+    "LeetCode_Rearrange_Array_Elements_by_Sign": true
   },
   "activityHistory": {
     "2026-08-03": 7,
     "2026-08-04": 6,
     "2026-08-05": 1,
-    "2026-08-06": 1
+    "2026-08-06": 2
   },
   "todayProblems": [
-    "Smallest Divisible Digit Product I"
+    "Smallest Divisible Digit Product I",
+    "Rearrange Array Elements by Sign"
   ]
 }
