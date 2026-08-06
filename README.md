@@ -13,3 +13,4 @@
 | 11 | [Majority Element](./LeetCode/Easy/Majority%20Element) | [LeetCode](https://leetcode.com/problems/majority-element/) | Easy | 04 Aug 2026 | 09:39 pm |
 | 12 | [Find Missing Elements](./LeetCode/Easy/Find%20Missing%20Elements) | [LeetCode](https://leetcode.com/problems/find-missing-elements/) | Easy | 04 Aug 2026 | 10:07 pm |
 | 13 | [Remove Methods From Project](./LeetCode/Medium/Remove%20Methods%20From%20Project) | [LeetCode](https://leetcode.com/problems/remove-methods-from-project/) | Medium | 05 Aug 2026 | 12:48 pm |
+| 14 | [Smallest Divisible Digit Product I](./LeetCode/Easy/Smallest%20Divisible%20Digit%20Product%20I) | [LeetCode](https://leetcode.com/problems/smallest-divisible-digit-product-i/) | Easy | 06 Aug 2026 | 06:28 pm |
