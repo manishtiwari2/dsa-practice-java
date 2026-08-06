@@ -15,3 +15,4 @@
 | 13 | [Remove Methods From Project](./LeetCode/Medium/Remove%20Methods%20From%20Project) | [LeetCode](https://leetcode.com/problems/remove-methods-from-project/) | Medium | 05 Aug 2026 | 12:48 pm |
 | 14 | [Smallest Divisible Digit Product I](./LeetCode/Easy/Smallest%20Divisible%20Digit%20Product%20I) | [LeetCode](https://leetcode.com/problems/smallest-divisible-digit-product-i/) | Easy | 06 Aug 2026 | 06:28 pm |
 | 15 | [Rearrange Array Elements by Sign](./LeetCode/Medium/Rearrange%20Array%20Elements%20by%20Sign) | [LeetCode](https://leetcode.com/problems/rearrange-array-elements-by-sign/) | Medium | 06 Aug 2026 | 06:52 pm |
+| 16 | [Alternate Positive Negative](./GeeksForGeeks/Easy/Alternate%20Positive%20Negative) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/array-of-alternate-ve-and-ve-nos1401/1) | Easy | 06 Aug 2026 | 07:48 pm |
