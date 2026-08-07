@@ -1,13 +1,13 @@
 {
-  "totalSolved": 19,
-  "currentStreak": 4,
-  "maxStreak": 4,
-  "lastSyncDate": "2026-08-06",
-  "todayCount": 5,
+  "totalSolved": 20,
+  "currentStreak": 5,
+  "maxStreak": 5,
+  "lastSyncDate": "2026-08-07",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 9,
     "medium": 7,
-    "hard": 1,
+    "hard": 2,
     "basic": 2
   },
   "syncedProblems": {
@@ -29,19 +29,17 @@
     "LeetCode_Rearrange_Array_Elements_by_Sign": true,
     "GeeksForGeeks_Alternate_Positive_Negative": true,
     "LeetCode_Rotate_Array": true,
-    "LeetCode_Wiggle_Sort_II": true
+    "LeetCode_Wiggle_Sort_II": true,
+    "LeetCode_Smallest_Divisible_Digit_Product_II": true
   },
   "activityHistory": {
     "2026-08-03": 7,
     "2026-08-04": 6,
     "2026-08-05": 1,
-    "2026-08-06": 5
+    "2026-08-06": 5,
+    "2026-08-07": 1
   },
   "todayProblems": [
-    "Smallest Divisible Digit Product I",
-    "Rearrange Array Elements by Sign",
-    "Alternate Positive Negative",
-    "Rotate Array",
-    "Wiggle Sort II"
+    "Smallest Divisible Digit Product II"
   ]
 }

@@ -18,3 +18,4 @@
 | 16 | [Alternate Positive Negative](./GeeksForGeeks/Easy/Alternate%20Positive%20Negative) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/array-of-alternate-ve-and-ve-nos1401/1) | Easy | 06 Aug 2026 | 07:48 pm |
 | 17 | [Rotate Array](./LeetCode/Medium/Rotate%20Array) | [LeetCode](https://leetcode.com/problems/rotate-array/) | Medium | 06 Aug 2026 | 07:52 pm |
 | 18 | [Wiggle Sort II](./LeetCode/Medium/Wiggle%20Sort%20II) | [LeetCode](https://leetcode.com/problems/wiggle-sort-ii/) | Medium | 06 Aug 2026 | 08:36 pm |
+| 19 | [Smallest Divisible Digit Product II](./LeetCode/Hard/Smallest%20Divisible%20Digit%20Product%20II) | [LeetCode](https://leetcode.com/problems/smallest-divisible-digit-product-ii/) | Hard | 07 Aug 2026 | 07:33 pm |
