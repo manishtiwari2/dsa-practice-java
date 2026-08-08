@@ -20,3 +20,4 @@
 | 18 | [Wiggle Sort II](./LeetCode/Medium/Wiggle%20Sort%20II) | [LeetCode](https://leetcode.com/problems/wiggle-sort-ii/) | Medium | 06 Aug 2026 | 08:36 pm |
 | 19 | [Smallest Divisible Digit Product II](./LeetCode/Hard/Smallest%20Divisible%20Digit%20Product%20II) | [LeetCode](https://leetcode.com/problems/smallest-divisible-digit-product-ii/) | Hard | 07 Aug 2026 | 07:33 pm |
 | 20 | [Find the Lexicographically Smallest Valid Sequence](./LeetCode/Medium/Find%20the%20Lexicographically%20Smallest%20Valid%20Sequence) | [LeetCode](https://leetcode.com/problems/find-the-lexicographically-smallest-valid-sequence/) | Medium | 08 Aug 2026 | 09:23 pm |
+| 21 | [Majority Element II](./LeetCode/Medium/Majority%20Element%20II) | [LeetCode](https://leetcode.com/problems/majority-element-ii/) | Medium | 08 Aug 2026 | 09:46 pm |

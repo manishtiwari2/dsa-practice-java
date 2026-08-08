@@ -1,12 +1,12 @@
 {
-  "totalSolved": 21,
+  "totalSolved": 22,
   "currentStreak": 6,
   "maxStreak": 6,
   "lastSyncDate": "2026-08-08",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 9,
-    "medium": 8,
+    "medium": 9,
     "hard": 2,
     "basic": 2
   },
@@ -31,7 +31,8 @@
     "LeetCode_Rotate_Array": true,
     "LeetCode_Wiggle_Sort_II": true,
     "LeetCode_Smallest_Divisible_Digit_Product_II": true,
-    "LeetCode_Find_the_Lexicographically_Smallest_Valid_Sequence": true
+    "LeetCode_Find_the_Lexicographically_Smallest_Valid_Sequence": true,
+    "LeetCode_Majority_Element_II": true
   },
   "activityHistory": {
     "2026-08-03": 7,
@@ -39,9 +40,10 @@
     "2026-08-05": 1,
     "2026-08-06": 5,
     "2026-08-07": 1,
-    "2026-08-08": 1
+    "2026-08-08": 2
   },
   "todayProblems": [
-    "Find the Lexicographically Smallest Valid Sequence"
+    "Find the Lexicographically Smallest Valid Sequence",
+    "Majority Element II"
   ]
 }
