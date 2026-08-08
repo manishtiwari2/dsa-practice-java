@@ -1,11 +1,11 @@
 {
-  "totalSolved": 22,
+  "totalSolved": 23,
   "currentStreak": 6,
   "maxStreak": 6,
   "lastSyncDate": "2026-08-08",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
-    "easy": 9,
+    "easy": 10,
     "medium": 9,
     "hard": 2,
     "basic": 2
@@ -32,7 +32,8 @@
     "LeetCode_Wiggle_Sort_II": true,
     "LeetCode_Smallest_Divisible_Digit_Product_II": true,
     "LeetCode_Find_the_Lexicographically_Smallest_Valid_Sequence": true,
-    "LeetCode_Majority_Element_II": true
+    "LeetCode_Majority_Element_II": true,
+    "LeetCode_Best_Time_to_Buy_and_Sell_Stock": true
   },
   "activityHistory": {
     "2026-08-03": 7,
@@ -40,10 +41,11 @@
     "2026-08-05": 1,
     "2026-08-06": 5,
     "2026-08-07": 1,
-    "2026-08-08": 2
+    "2026-08-08": 3
   },
   "todayProblems": [
     "Find the Lexicographically Smallest Valid Sequence",
-    "Majority Element II"
+    "Majority Element II",
+    "Best Time to Buy and Sell Stock"
   ]
 }
