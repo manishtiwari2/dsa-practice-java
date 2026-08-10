@@ -1,13 +1,13 @@
 {
-  "totalSolved": 24,
+  "totalSolved": 25,
   "currentStreak": 1,
   "maxStreak": 6,
   "lastSyncDate": "2026-08-10",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 10,
     "medium": 10,
-    "hard": 2,
+    "hard": 3,
     "basic": 2
   },
   "syncedProblems": {
@@ -34,7 +34,8 @@
     "LeetCode_Find_the_Lexicographically_Smallest_Valid_Sequence": true,
     "LeetCode_Majority_Element_II": true,
     "LeetCode_Best_Time_to_Buy_and_Sell_Stock": true,
-    "LeetCode_Stone_Game_II": true
+    "LeetCode_Stone_Game_II": true,
+    "LeetCode_Stone_Game_IV": true
   },
   "activityHistory": {
     "2026-08-03": 7,
@@ -43,9 +44,10 @@
     "2026-08-06": 5,
     "2026-08-07": 1,
     "2026-08-08": 3,
-    "2026-08-10": 1
+    "2026-08-10": 2
   },
   "todayProblems": [
-    "Stone Game II"
+    "Stone Game II",
+    "Stone Game IV"
   ]
 }

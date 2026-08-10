@@ -23,3 +23,4 @@
 | 21 | [Majority Element II](./LeetCode/Medium/Majority%20Element%20II) | [LeetCode](https://leetcode.com/problems/majority-element-ii/) | Medium | 08 Aug 2026 | 09:46 pm |
 | 22 | [Best Time to Buy and Sell Stock](./LeetCode/Easy/Best%20Time%20to%20Buy%20and%20Sell%20Stock) | [LeetCode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | 08 Aug 2026 | 09:57 pm |
 | 23 | [Stone Game II](./LeetCode/Medium/Stone%20Game%20II) | [LeetCode](https://leetcode.com/problems/stone-game-ii/) | Medium | 10 Aug 2026 | 09:34 am |
+| 24 | [Stone Game IV](./LeetCode/Hard/Stone%20Game%20IV) | [LeetCode](https://leetcode.com/problems/stone-game-iv/) | Hard | 10 Aug 2026 | 09:35 am |
