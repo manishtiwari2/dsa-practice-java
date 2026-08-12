@@ -24,3 +24,4 @@
 | 22 | [Best Time to Buy and Sell Stock](./LeetCode/Easy/Best%20Time%20to%20Buy%20and%20Sell%20Stock) | [LeetCode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | 08 Aug 2026 | 09:57 pm |
 | 23 | [Stone Game II](./LeetCode/Medium/Stone%20Game%20II) | [LeetCode](https://leetcode.com/problems/stone-game-ii/) | Medium | 10 Aug 2026 | 09:34 am |
 | 24 | [Stone Game IV](./LeetCode/Hard/Stone%20Game%20IV) | [LeetCode](https://leetcode.com/problems/stone-game-iv/) | Hard | 10 Aug 2026 | 09:35 am |
+| 25 | [Smallest Missing Integer Greater Than Sequential Prefix Sum](./LeetCode/Easy/Smallest%20Missing%20Integer%20Greater%20Than%20Sequential%20Prefix%20Sum) | [LeetCode](https://leetcode.com/problems/smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy | 12 Aug 2026 | 09:30 am |
