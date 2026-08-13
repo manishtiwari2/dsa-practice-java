@@ -1,13 +1,13 @@
 {
-  "totalSolved": 27,
-  "currentStreak": 1,
+  "totalSolved": 28,
+  "currentStreak": 2,
   "maxStreak": 6,
-  "lastSyncDate": "2026-08-12",
-  "todayCount": 2,
+  "lastSyncDate": "2026-08-13",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 11,
     "medium": 11,
-    "hard": 3,
+    "hard": 4,
     "basic": 2
   },
   "syncedProblems": {
@@ -37,7 +37,8 @@
     "LeetCode_Stone_Game_II": true,
     "LeetCode_Stone_Game_IV": true,
     "LeetCode_Smallest_Missing_Integer_Greater_Than_Sequential_Prefix_Sum": true,
-    "LeetCode_Length_of_Longest_Subarray_With_at_Most_K_Frequency": true
+    "LeetCode_Length_of_Longest_Subarray_With_at_Most_K_Frequency": true,
+    "LeetCode_Longest_Substring_of_One_Repeating_Character": true
   },
   "activityHistory": {
     "2026-08-03": 7,
@@ -47,10 +48,10 @@
     "2026-08-07": 1,
     "2026-08-08": 3,
     "2026-08-10": 2,
-    "2026-08-12": 2
+    "2026-08-12": 2,
+    "2026-08-13": 1
   },
   "todayProblems": [
-    "Smallest Missing Integer Greater Than Sequential Prefix Sum",
-    "Length of Longest Subarray With at Most K Frequency"
+    "Longest Substring of One Repeating Character"
   ]
 }
