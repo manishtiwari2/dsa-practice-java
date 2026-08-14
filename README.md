@@ -28,3 +28,4 @@
 | 26 | [Length of Longest Subarray With at Most K Frequency](./LeetCode/Medium/Length%20of%20Longest%20Subarray%20With%20at%20Most%20K%20Frequency) | [LeetCode](https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/) | Medium | 12 Aug 2026 | 09:41 am |
 | 27 | [Longest Substring of One Repeating Character](./LeetCode/Hard/Longest%20Substring%20of%20One%20Repeating%20Character) | [LeetCode](https://leetcode.com/problems/longest-substring-of-one-repeating-character/) | Hard | 13 Aug 2026 | 10:24 pm |
 | 28 | [Next Permutation](./LeetCode/Medium/Next%20Permutation) | [LeetCode](https://leetcode.com/problems/next-permutation/) | Medium | 14 Aug 2026 | 03:19 pm |
+| 29 | [Search a 2D Matrix](./LeetCode/Medium/Search%20a%202D%20Matrix) | [LeetCode](https://leetcode.com/problems/search-a-2d-matrix/) | Medium | 14 Aug 2026 | 07:21 pm |
