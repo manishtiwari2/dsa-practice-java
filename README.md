@@ -30,3 +30,4 @@
 | 28 | [Next Permutation](./LeetCode/Medium/Next%20Permutation) | [LeetCode](https://leetcode.com/problems/next-permutation/) | Medium | 14 Aug 2026 | 03:19 pm |
 | 29 | [Search a 2D Matrix](./LeetCode/Medium/Search%20a%202D%20Matrix) | [LeetCode](https://leetcode.com/problems/search-a-2d-matrix/) | Medium | 14 Aug 2026 | 07:21 pm |
 | 30 | [Maximum Length Substring With Two Occurrences](./LeetCode/Easy/Maximum%20Length%20Substring%20With%20Two%20Occurrences) | [LeetCode](https://leetcode.com/problems/maximum-length-substring-with-two-occurrences/) | Easy | 14 Aug 2026 | 09:25 pm |
+| 31 | [Longest Subsequence With Non-Zero Bitwise XOR](./LeetCode/Medium/Longest%20Subsequence%20With%20Non-Zero%20Bitwise%20XOR) | [LeetCode](https://leetcode.com/problems/longest-subsequence-with-non-zero-bitwise-xor/) | Medium | 15 Aug 2026 | 02:05 pm |
