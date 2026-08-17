@@ -32,3 +32,4 @@
 | 30 | [Maximum Length Substring With Two Occurrences](./LeetCode/Easy/Maximum%20Length%20Substring%20With%20Two%20Occurrences) | [LeetCode](https://leetcode.com/problems/maximum-length-substring-with-two-occurrences/) | Easy | 14 Aug 2026 | 09:25 pm |
 | 31 | [Longest Subsequence With Non-Zero Bitwise XOR](./LeetCode/Medium/Longest%20Subsequence%20With%20Non-Zero%20Bitwise%20XOR) | [LeetCode](https://leetcode.com/problems/longest-subsequence-with-non-zero-bitwise-xor/) | Medium | 15 Aug 2026 | 02:05 pm |
 | 32 | [Stone Game IX](./LeetCode/Medium/Stone%20Game%20IX) | [LeetCode](https://leetcode.com/problems/stone-game-ix/) | Medium | 16 Aug 2026 | 11:19 pm |
+| 33 | [Stone Game V](./LeetCode/Hard/Stone%20Game%20V) | [LeetCode](https://leetcode.com/problems/stone-game-v/) | Hard | 17 Aug 2026 | 11:42 am |
