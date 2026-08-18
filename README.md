@@ -33,3 +33,4 @@
 | 31 | [Longest Subsequence With Non-Zero Bitwise XOR](./LeetCode/Medium/Longest%20Subsequence%20With%20Non-Zero%20Bitwise%20XOR) | [LeetCode](https://leetcode.com/problems/longest-subsequence-with-non-zero-bitwise-xor/) | Medium | 15 Aug 2026 | 02:05 pm |
 | 32 | [Stone Game IX](./LeetCode/Medium/Stone%20Game%20IX) | [LeetCode](https://leetcode.com/problems/stone-game-ix/) | Medium | 16 Aug 2026 | 11:19 pm |
 | 33 | [Stone Game V](./LeetCode/Hard/Stone%20Game%20V) | [LeetCode](https://leetcode.com/problems/stone-game-v/) | Hard | 17 Aug 2026 | 11:42 am |
+| 34 | [Find the Largest Almost Missing Integer](./LeetCode/Easy/Find%20the%20Largest%20Almost%20Missing%20Integer) | [LeetCode](https://leetcode.com/problems/find-the-largest-almost-missing-integer/) | Easy | 18 Aug 2026 | 08:46 am |
