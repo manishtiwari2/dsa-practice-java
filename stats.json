@@ -1,12 +1,12 @@
 {
-  "totalSolved": 36,
+  "totalSolved": 37,
   "currentStreak": 8,
   "maxStreak": 8,
   "lastSyncDate": "2026-08-19",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 13,
-    "medium": 16,
+    "medium": 17,
     "hard": 5,
     "basic": 2
   },
@@ -46,7 +46,8 @@
     "LeetCode_Stone_Game_IX": true,
     "LeetCode_Stone_Game_V": true,
     "LeetCode_Find_the_Largest_Almost_Missing_Integer": true,
-    "LeetCode_Cinema_Seat_Allocation": true
+    "LeetCode_Cinema_Seat_Allocation": true,
+    "LeetCode_Product_of_Array_Except_Self": true
   },
   "activityHistory": {
     "2026-08-03": 7,
@@ -63,9 +64,10 @@
     "2026-08-16": 1,
     "2026-08-17": 1,
     "2026-08-18": 1,
-    "2026-08-19": 1
+    "2026-08-19": 2
   },
   "todayProblems": [
-    "Cinema Seat Allocation"
+    "Cinema Seat Allocation",
+    "Product of Array Except Self"
   ]
 }
