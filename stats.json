@@ -1,12 +1,12 @@
 {
-  "totalSolved": 35,
-  "currentStreak": 7,
-  "maxStreak": 7,
-  "lastSyncDate": "2026-08-18",
+  "totalSolved": 36,
+  "currentStreak": 8,
+  "maxStreak": 8,
+  "lastSyncDate": "2026-08-19",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 13,
-    "medium": 15,
+    "medium": 16,
     "hard": 5,
     "basic": 2
   },
@@ -45,7 +45,8 @@
     "LeetCode_Longest_Subsequence_With_Non-Zero_Bitwise_XOR": true,
     "LeetCode_Stone_Game_IX": true,
     "LeetCode_Stone_Game_V": true,
-    "LeetCode_Find_the_Largest_Almost_Missing_Integer": true
+    "LeetCode_Find_the_Largest_Almost_Missing_Integer": true,
+    "LeetCode_Cinema_Seat_Allocation": true
   },
   "activityHistory": {
     "2026-08-03": 7,
@@ -61,9 +62,10 @@
     "2026-08-15": 1,
     "2026-08-16": 1,
     "2026-08-17": 1,
-    "2026-08-18": 1
+    "2026-08-18": 1,
+    "2026-08-19": 1
   },
   "todayProblems": [
-    "Find the Largest Almost Missing Integer"
+    "Cinema Seat Allocation"
   ]
 }
