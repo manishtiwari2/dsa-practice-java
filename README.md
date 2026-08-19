@@ -37,3 +37,4 @@
 | 35 | [Cinema Seat Allocation](./LeetCode/Medium/Cinema%20Seat%20Allocation) | [LeetCode](https://leetcode.com/problems/cinema-seat-allocation/) | Medium | 19 Aug 2026 | 09:48 am |
 | 36 | [Product of Array Except Self](./LeetCode/Medium/Product%20of%20Array%20Except%20Self) | [LeetCode](https://leetcode.com/problems/product-of-array-except-self/) | Medium | 19 Aug 2026 | 10:51 am |
 | 37 | [Product array puzzle](./GeeksForGeeks/Medium/Product%20array%20puzzle) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/product-array-puzzle4525/1) | Medium | 19 Aug 2026 | 11:04 am |
+| 38 | [Rotate String](./LeetCode/Easy/Rotate%20String) | [LeetCode](https://leetcode.com/problems/rotate-string/) | Easy | 19 Aug 2026 | 11:34 pm |
