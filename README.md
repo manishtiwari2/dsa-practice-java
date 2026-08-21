@@ -39,3 +39,4 @@
 | 37 | [Product array puzzle](./GeeksForGeeks/Medium/Product%20array%20puzzle) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/product-array-puzzle4525/1) | Medium | 19 Aug 2026 | 11:04 am |
 | 38 | [Rotate String](./LeetCode/Easy/Rotate%20String) | [LeetCode](https://leetcode.com/problems/rotate-string/) | Easy | 19 Aug 2026 | 11:34 pm |
 | 39 | [Distribute Elements Into Two Arrays I](./LeetCode/Easy/Distribute%20Elements%20Into%20Two%20Arrays%20I) | [LeetCode](https://leetcode.com/problems/distribute-elements-into-two-arrays-i/) | Easy | 20 Aug 2026 | 09:25 am |
+| 40 | [Kth Smallest Amount With Single Denomination Combination](./LeetCode/Hard/Kth%20Smallest%20Amount%20With%20Single%20Denomination%20Combination) | [LeetCode](https://leetcode.com/problems/kth-smallest-amount-with-single-denomination-combination/) | Hard | 21 Aug 2026 | 08:25 am |
