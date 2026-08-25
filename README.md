@@ -42,3 +42,4 @@
 | 40 | [Kth Smallest Amount With Single Denomination Combination](./LeetCode/Hard/Kth%20Smallest%20Amount%20With%20Single%20Denomination%20Combination) | [LeetCode](https://leetcode.com/problems/kth-smallest-amount-with-single-denomination-combination/) | Hard | 21 Aug 2026 | 08:25 am |
 | 41 | [Check Divisibility by Digit Sum and Product](./LeetCode/Easy/Check%20Divisibility%20by%20Digit%20Sum%20and%20Product) | [LeetCode](https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product/) | Easy | 22 Aug 2026 | 11:27 am |
 | 42 | [Stone Game VIII](./LeetCode/Hard/Stone%20Game%20VIII) | [LeetCode](https://leetcode.com/problems/stone-game-viii/) | Hard | 24 Aug 2026 | 07:08 pm |
+| 43 | [Smallest Missing Multiple of K](./LeetCode/Easy/Smallest%20Missing%20Multiple%20of%20K) | [LeetCode](https://leetcode.com/problems/smallest-missing-multiple-of-k/) | Easy | 25 Aug 2026 | 06:51 pm |

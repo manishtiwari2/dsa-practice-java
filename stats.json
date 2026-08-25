@@ -1,11 +1,11 @@
 {
-  "totalSolved": 43,
-  "currentStreak": 1,
+  "totalSolved": 44,
+  "currentStreak": 2,
   "maxStreak": 11,
-  "lastSyncDate": "2026-08-24",
+  "lastSyncDate": "2026-08-25",
   "todayCount": 1,
   "difficultyCounts": {
-    "easy": 16,
+    "easy": 17,
     "medium": 18,
     "hard": 7,
     "basic": 2
@@ -53,7 +53,8 @@
     "LeetCode_Distribute_Elements_Into_Two_Arrays_I": true,
     "LeetCode_Kth_Smallest_Amount_With_Single_Denomination_Combination": true,
     "LeetCode_Check_Divisibility_by_Digit_Sum_and_Product": true,
-    "LeetCode_Stone_Game_VIII": true
+    "LeetCode_Stone_Game_VIII": true,
+    "LeetCode_Smallest_Missing_Multiple_of_K": true
   },
   "activityHistory": {
     "2026-08-03": 7,
@@ -74,9 +75,10 @@
     "2026-08-20": 1,
     "2026-08-21": 1,
     "2026-08-22": 1,
-    "2026-08-24": 1
+    "2026-08-24": 1,
+    "2026-08-25": 1
   },
   "todayProblems": [
-    "Stone Game VIII"
+    "Smallest Missing Multiple of K"
   ]
 }
