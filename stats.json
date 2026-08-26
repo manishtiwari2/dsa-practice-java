@@ -1,12 +1,12 @@
 {
-  "totalSolved": 44,
-  "currentStreak": 2,
+  "totalSolved": 45,
+  "currentStreak": 3,
   "maxStreak": 11,
-  "lastSyncDate": "2026-08-25",
+  "lastSyncDate": "2026-08-26",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 17,
-    "medium": 18,
+    "medium": 19,
     "hard": 7,
     "basic": 2
   },
@@ -54,7 +54,8 @@
     "LeetCode_Kth_Smallest_Amount_With_Single_Denomination_Combination": true,
     "LeetCode_Check_Divisibility_by_Digit_Sum_and_Product": true,
     "LeetCode_Stone_Game_VIII": true,
-    "LeetCode_Smallest_Missing_Multiple_of_K": true
+    "LeetCode_Smallest_Missing_Multiple_of_K": true,
+    "LeetCode_Shortest_and_Lexicographically_Smallest_Beautiful_String": true
   },
   "activityHistory": {
     "2026-08-03": 7,
@@ -76,9 +77,10 @@
     "2026-08-21": 1,
     "2026-08-22": 1,
     "2026-08-24": 1,
-    "2026-08-25": 1
+    "2026-08-25": 1,
+    "2026-08-26": 1
   },
   "todayProblems": [
-    "Smallest Missing Multiple of K"
+    "Shortest and Lexicographically Smallest Beautiful String"
   ]
 }
