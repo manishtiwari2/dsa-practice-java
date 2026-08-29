@@ -1,12 +1,12 @@
 {
-  "totalSolved": 47,
-  "currentStreak": 5,
+  "totalSolved": 48,
+  "currentStreak": 6,
   "maxStreak": 11,
-  "lastSyncDate": "2026-08-28",
+  "lastSyncDate": "2026-08-29",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 17,
-    "medium": 20,
+    "medium": 21,
     "hard": 8,
     "basic": 2
   },
@@ -57,7 +57,8 @@
     "LeetCode_Smallest_Missing_Multiple_of_K": true,
     "LeetCode_Shortest_and_Lexicographically_Smallest_Beautiful_String": true,
     "LeetCode_Lexicographically_Smallest_Permutation_Greater_Than_Target": true,
-    "LeetCode_Lexicographically_Smallest_Palindromic_Permutation_Greater_Than_Target": true
+    "LeetCode_Lexicographically_Smallest_Palindromic_Permutation_Greater_Than_Target": true,
+    "GeeksForGeeks_Tower_Of_Hanoi": true
   },
   "activityHistory": {
     "2026-08-03": 7,
@@ -82,9 +83,10 @@
     "2026-08-25": 1,
     "2026-08-26": 1,
     "2026-08-27": 1,
-    "2026-08-28": 1
+    "2026-08-28": 1,
+    "2026-08-29": 1
   },
   "todayProblems": [
-    "Lexicographically Smallest Palindromic Permutation Greater Than Target"
+    "Tower Of Hanoi"
   ]
 }
