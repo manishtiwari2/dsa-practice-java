@@ -1,12 +1,12 @@
 {
-  "totalSolved": 52,
+  "totalSolved": 53,
   "currentStreak": 1,
   "maxStreak": 11,
   "lastSyncDate": "2026-09-01",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 17,
-    "medium": 24,
+    "medium": 25,
     "hard": 9,
     "basic": 2
   },
@@ -62,7 +62,8 @@
     "GeeksForGeeks_Quick_Sort": true,
     "LeetCode_Make_Lexicographically_Smallest_Array_by_Swapping_Elements": true,
     "LeetCode_Minimum_Moves_to_Clean_the_Classroom": true,
-    "LeetCode_Unique_Paths_III": true
+    "LeetCode_Unique_Paths_III": true,
+    "LeetCode_Non-decreasing_Subsequences": true
   },
   "activityHistory": {
     "2026-08-03": 7,
@@ -89,10 +90,11 @@
     "2026-08-27": 1,
     "2026-08-28": 1,
     "2026-08-29": 3,
-    "2026-09-01": 2
+    "2026-09-01": 3
   },
   "todayProblems": [
     "Minimum Moves to Clean the Classroom",
-    "Unique Paths III"
+    "Unique Paths III",
+    "Non-decreasing Subsequences"
   ]
 }
