@@ -49,3 +49,4 @@
 | 47 | [Tower Of Hanoi](./GeeksForGeeks/Medium/Tower%20Of%20Hanoi) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/tower-of-hanoi-1587115621/1) | Medium | 29 Aug 2026 | 02:50 pm |
 | 48 | [Quick Sort](./GeeksForGeeks/Medium/Quick%20Sort) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/quick-sort/1) | Medium | 29 Aug 2026 | 06:21 pm |
 | 49 | [Make Lexicographically Smallest Array by Swapping Elements](./LeetCode/Medium/Make%20Lexicographically%20Smallest%20Array%20by%20Swapping%20Elements) | [LeetCode](https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements/) | Medium | 29 Aug 2026 | 10:15 pm |
+| 50 | [Minimum Moves to Clean the Classroom](./LeetCode/Medium/Minimum%20Moves%20to%20Clean%20the%20Classroom) | [LeetCode](https://leetcode.com/problems/minimum-moves-to-clean-the-classroom/) | Medium | 01 Sept 2026 | 08:48 am |

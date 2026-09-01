@@ -1,12 +1,12 @@
 {
-  "totalSolved": 50,
-  "currentStreak": 6,
+  "totalSolved": 51,
+  "currentStreak": 1,
   "maxStreak": 11,
-  "lastSyncDate": "2026-08-29",
-  "todayCount": 3,
+  "lastSyncDate": "2026-09-01",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 17,
-    "medium": 23,
+    "medium": 24,
     "hard": 8,
     "basic": 2
   },
@@ -60,7 +60,8 @@
     "LeetCode_Lexicographically_Smallest_Palindromic_Permutation_Greater_Than_Target": true,
     "GeeksForGeeks_Tower_Of_Hanoi": true,
     "GeeksForGeeks_Quick_Sort": true,
-    "LeetCode_Make_Lexicographically_Smallest_Array_by_Swapping_Elements": true
+    "LeetCode_Make_Lexicographically_Smallest_Array_by_Swapping_Elements": true,
+    "LeetCode_Minimum_Moves_to_Clean_the_Classroom": true
   },
   "activityHistory": {
     "2026-08-03": 7,
@@ -86,11 +87,10 @@
     "2026-08-26": 1,
     "2026-08-27": 1,
     "2026-08-28": 1,
-    "2026-08-29": 3
+    "2026-08-29": 3,
+    "2026-09-01": 1
   },
   "todayProblems": [
-    "Tower Of Hanoi",
-    "Quick Sort",
-    "Make Lexicographically Smallest Array by Swapping Elements"
+    "Minimum Moves to Clean the Classroom"
   ]
 }
