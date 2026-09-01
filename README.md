@@ -52,3 +52,4 @@
 | 50 | [Minimum Moves to Clean the Classroom](./LeetCode/Medium/Minimum%20Moves%20to%20Clean%20the%20Classroom) | [LeetCode](https://leetcode.com/problems/minimum-moves-to-clean-the-classroom/) | Medium | 01 Sept 2026 | 08:48 am |
 | 51 | [Unique Paths III](./LeetCode/Hard/Unique%20Paths%20III) | [LeetCode](https://leetcode.com/problems/unique-paths-iii/) | Hard | 01 Sept 2026 | 06:21 pm |
 | 52 | [Non-decreasing Subsequences](./LeetCode/Medium/Non-decreasing%20Subsequences) | [LeetCode](https://leetcode.com/problems/non-decreasing-subsequences/) | Medium | 01 Sept 2026 | 06:52 pm |
+| 53 | [Palindrome Partitioning](./LeetCode/Medium/Palindrome%20Partitioning) | [LeetCode](https://leetcode.com/problems/palindrome-partitioning/) | Medium | 01 Sept 2026 | 10:32 pm |
