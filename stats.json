@@ -1,11 +1,11 @@
 {
-  "totalSolved": 54,
-  "currentStreak": 1,
+  "totalSolved": 55,
+  "currentStreak": 2,
   "maxStreak": 11,
-  "lastSyncDate": "2026-09-01",
-  "todayCount": 4,
+  "lastSyncDate": "2026-09-02",
+  "todayCount": 1,
   "difficultyCounts": {
-    "easy": 17,
+    "easy": 18,
     "medium": 26,
     "hard": 9,
     "basic": 2
@@ -64,7 +64,8 @@
     "LeetCode_Minimum_Moves_to_Clean_the_Classroom": true,
     "LeetCode_Unique_Paths_III": true,
     "LeetCode_Non-decreasing_Subsequences": true,
-    "LeetCode_Palindrome_Partitioning": true
+    "LeetCode_Palindrome_Partitioning": true,
+    "LeetCode_Construct_Uniform_Parity_Array_I": true
   },
   "activityHistory": {
     "2026-08-03": 7,
@@ -91,12 +92,10 @@
     "2026-08-27": 1,
     "2026-08-28": 1,
     "2026-08-29": 3,
-    "2026-09-01": 4
+    "2026-09-01": 4,
+    "2026-09-02": 1
   },
   "todayProblems": [
-    "Minimum Moves to Clean the Classroom",
-    "Unique Paths III",
-    "Non-decreasing Subsequences",
-    "Palindrome Partitioning"
+    "Construct Uniform Parity Array I"
   ]
 }

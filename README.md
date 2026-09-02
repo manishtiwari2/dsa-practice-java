@@ -53,3 +53,4 @@
 | 51 | [Unique Paths III](./LeetCode/Hard/Unique%20Paths%20III) | [LeetCode](https://leetcode.com/problems/unique-paths-iii/) | Hard | 01 Sept 2026 | 06:21 pm |
 | 52 | [Non-decreasing Subsequences](./LeetCode/Medium/Non-decreasing%20Subsequences) | [LeetCode](https://leetcode.com/problems/non-decreasing-subsequences/) | Medium | 01 Sept 2026 | 06:52 pm |
 | 53 | [Palindrome Partitioning](./LeetCode/Medium/Palindrome%20Partitioning) | [LeetCode](https://leetcode.com/problems/palindrome-partitioning/) | Medium | 01 Sept 2026 | 10:32 pm |
+| 54 | [Construct Uniform Parity Array I](./LeetCode/Easy/Construct%20Uniform%20Parity%20Array%20I) | [LeetCode](https://leetcode.com/problems/construct-uniform-parity-array-i/) | Easy | 02 Sept 2026 | 03:21 pm |
