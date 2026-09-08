@@ -1,12 +1,12 @@
 {
-  "totalSolved": 60,
-  "currentStreak": 7,
+  "totalSolved": 61,
+  "currentStreak": 8,
   "maxStreak": 11,
-  "lastSyncDate": "2026-09-07",
+  "lastSyncDate": "2026-09-08",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 19,
-    "medium": 28,
+    "medium": 29,
     "hard": 11,
     "basic": 2
   },
@@ -70,7 +70,8 @@
     "LeetCode_Smallest_Stable_Index_I": true,
     "LeetCode_Smallest_Stable_Index_II": true,
     "LeetCode_Distinct_Subsequences": true,
-    "LeetCode_Distinct_Subsequences_II": true
+    "LeetCode_Distinct_Subsequences_II": true,
+    "LeetCode_Longest_Common_Subsequence": true
   },
   "activityHistory": {
     "2026-08-03": 7,
@@ -103,9 +104,10 @@
     "2026-09-04": 1,
     "2026-09-05": 1,
     "2026-09-06": 1,
-    "2026-09-07": 1
+    "2026-09-07": 1,
+    "2026-09-08": 1
   },
   "todayProblems": [
-    "Distinct Subsequences II"
+    "Longest Common Subsequence"
   ]
 }

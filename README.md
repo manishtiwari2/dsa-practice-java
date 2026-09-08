@@ -59,3 +59,4 @@
 | 57 | [Smallest Stable Index II](./LeetCode/Medium/Smallest%20Stable%20Index%20II) | [LeetCode](https://leetcode.com/problems/smallest-stable-index-ii/) | Medium | 05 Sept 2026 | 05:38 pm |
 | 58 | [Distinct Subsequences](./LeetCode/Hard/Distinct%20Subsequences) | [LeetCode](https://leetcode.com/problems/distinct-subsequences/) | Hard | 06 Sept 2026 | 09:23 pm |
 | 59 | [Distinct Subsequences II](./LeetCode/Hard/Distinct%20Subsequences%20II) | [LeetCode](https://leetcode.com/problems/distinct-subsequences-ii/) | Hard | 07 Sept 2026 | 10:43 pm |
+| 60 | [Longest Common Subsequence](./LeetCode/Medium/Longest%20Common%20Subsequence) | [LeetCode](https://leetcode.com/problems/longest-common-subsequence/) | Medium | 08 Sept 2026 | 08:42 am |
