@@ -1,12 +1,12 @@
 {
-  "totalSolved": 63,
+  "totalSolved": 64,
   "currentStreak": 9,
   "maxStreak": 11,
   "lastSyncDate": "2026-09-09",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 20,
-    "medium": 30,
+    "medium": 31,
     "hard": 11,
     "basic": 2
   },
@@ -73,7 +73,8 @@
     "LeetCode_Distinct_Subsequences_II": true,
     "LeetCode_Longest_Common_Subsequence": true,
     "LeetCode_Pow(x,_n)": true,
-    "LeetCode_Count_Commas_in_Range": true
+    "LeetCode_Count_Commas_in_Range": true,
+    "LeetCode_Count_Commas_in_Range_II": true
   },
   "activityHistory": {
     "2026-08-03": 7,
@@ -108,10 +109,11 @@
     "2026-09-06": 1,
     "2026-09-07": 1,
     "2026-09-08": 1,
-    "2026-09-09": 2
+    "2026-09-09": 3
   },
   "todayProblems": [
     "Pow(x, n)",
-    "Count Commas in Range"
+    "Count Commas in Range",
+    "Count Commas in Range II"
   ]
 }

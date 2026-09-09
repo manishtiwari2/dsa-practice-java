@@ -62,3 +62,4 @@
 | 60 | [Longest Common Subsequence](./LeetCode/Medium/Longest%20Common%20Subsequence) | [LeetCode](https://leetcode.com/problems/longest-common-subsequence/) | Medium | 08 Sept 2026 | 08:42 am |
 | 61 | [Pow(x, n)](./LeetCode/Medium/Pow(x%2C%20n)) | [LeetCode](https://leetcode.com/problems/powx-n/) | Medium | 09 Sept 2026 | 05:35 pm |
 | 62 | [Count Commas in Range](./LeetCode/Easy/Count%20Commas%20in%20Range) | [LeetCode](https://leetcode.com/problems/count-commas-in-range/) | Easy | 09 Sept 2026 | 11:29 pm |
+| 63 | [Count Commas in Range II](./LeetCode/Medium/Count%20Commas%20in%20Range%20II) | [LeetCode](https://leetcode.com/problems/count-commas-in-range-ii/) | Medium | 09 Sept 2026 | 11:35 pm |
