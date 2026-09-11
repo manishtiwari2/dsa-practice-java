@@ -1,12 +1,12 @@
 {
-  "totalSolved": 65,
+  "totalSolved": 66,
   "currentStreak": 1,
   "maxStreak": 11,
   "lastSyncDate": "2026-09-11",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 21,
-    "medium": 31,
+    "medium": 32,
     "hard": 11,
     "basic": 2
   },
@@ -75,7 +75,8 @@
     "LeetCode_Pow(x,_n)": true,
     "LeetCode_Count_Commas_in_Range": true,
     "LeetCode_Count_Commas_in_Range_II": true,
-    "LeetCode_Is_Subsequence": true
+    "LeetCode_Is_Subsequence": true,
+    "LeetCode_Minimum_Path_Sum": true
   },
   "activityHistory": {
     "2026-08-03": 7,
@@ -111,9 +112,10 @@
     "2026-09-07": 1,
     "2026-09-08": 1,
     "2026-09-09": 3,
-    "2026-09-11": 1
+    "2026-09-11": 2
   },
   "todayProblems": [
-    "Is Subsequence"
+    "Is Subsequence",
+    "Minimum Path Sum"
   ]
 }
