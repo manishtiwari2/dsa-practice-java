@@ -67,3 +67,4 @@
 | 65 | [Minimum Path Sum](./LeetCode/Medium/Minimum%20Path%20Sum) | [LeetCode](https://leetcode.com/problems/minimum-path-sum/) | Medium | 11 Sept 2026 | 09:24 pm |
 | 66 | [Count Nodes Equal to Average of Subtree](./LeetCode/Medium/Count%20Nodes%20Equal%20to%20Average%20of%20Subtree) | [LeetCode](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/) | Medium | 12 Sept 2026 | 06:22 am |
 | 67 | [Unique 3-Digit Even Numbers](./LeetCode/Easy/Unique%203-Digit%20Even%20Numbers) | [LeetCode](https://leetcode.com/problems/unique-3-digit-even-numbers/) | Easy | 12 Sept 2026 | 06:24 am |
+| 68 | [Maximum Score of Non-overlapping Intervals](./LeetCode/Hard/Maximum%20Score%20of%20Non-overlapping%20Intervals) | [LeetCode](https://leetcode.com/problems/maximum-score-of-non-overlapping-intervals/) | Hard | 12 Sept 2026 | 06:26 am |
