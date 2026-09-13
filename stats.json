@@ -1,12 +1,12 @@
 {
-  "totalSolved": 69,
-  "currentStreak": 2,
+  "totalSolved": 70,
+  "currentStreak": 3,
   "maxStreak": 11,
-  "lastSyncDate": "2026-09-12",
-  "todayCount": 3,
+  "lastSyncDate": "2026-09-13",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 22,
-    "medium": 33,
+    "medium": 34,
     "hard": 12,
     "basic": 2
   },
@@ -79,7 +79,8 @@
     "LeetCode_Minimum_Path_Sum": true,
     "LeetCode_Count_Nodes_Equal_to_Average_of_Subtree": true,
     "LeetCode_Unique_3-Digit_Even_Numbers": true,
-    "LeetCode_Maximum_Score_of_Non-overlapping_Intervals": true
+    "LeetCode_Maximum_Score_of_Non-overlapping_Intervals": true,
+    "LeetCode_Image_Overlap": true
   },
   "activityHistory": {
     "2026-08-03": 7,
@@ -116,11 +117,10 @@
     "2026-09-08": 1,
     "2026-09-09": 3,
     "2026-09-11": 2,
-    "2026-09-12": 3
+    "2026-09-12": 3,
+    "2026-09-13": 1
   },
   "todayProblems": [
-    "Count Nodes Equal to Average of Subtree",
-    "Unique 3-Digit Even Numbers",
-    "Maximum Score of Non-overlapping Intervals"
+    "Image Overlap"
   ]
 }
