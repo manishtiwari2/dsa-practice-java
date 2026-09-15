@@ -1,12 +1,12 @@
 {
-  "totalSolved": 71,
+  "totalSolved": 72,
   "currentStreak": 1,
   "maxStreak": 11,
   "lastSyncDate": "2026-09-15",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 23,
-    "medium": 34,
+    "medium": 35,
     "hard": 12,
     "basic": 2
   },
@@ -81,7 +81,8 @@
     "LeetCode_Unique_3-Digit_Even_Numbers": true,
     "LeetCode_Maximum_Score_of_Non-overlapping_Intervals": true,
     "LeetCode_Image_Overlap": true,
-    "LeetCode_Min_Cost_Climbing_Stairs": true
+    "LeetCode_Min_Cost_Climbing_Stairs": true,
+    "LeetCode_House_Robber": true
   },
   "activityHistory": {
     "2026-08-03": 7,
@@ -120,9 +121,10 @@
     "2026-09-11": 2,
     "2026-09-12": 3,
     "2026-09-13": 1,
-    "2026-09-15": 1
+    "2026-09-15": 2
   },
   "todayProblems": [
-    "Min Cost Climbing Stairs"
+    "Min Cost Climbing Stairs",
+    "House Robber"
   ]
 }
