@@ -73,3 +73,4 @@
 | 71 | [House Robber](./LeetCode/Medium/House%20Robber) | [LeetCode](https://leetcode.com/problems/house-robber/) | Medium | 15 Sept 2026 | 08:42 pm |
 | 72 | [Unique Paths](./LeetCode/Medium/Unique%20Paths) | [LeetCode](https://leetcode.com/problems/unique-paths/) | Medium | 15 Sept 2026 | 09:03 pm |
 | 73 | [Unique Paths II](./LeetCode/Medium/Unique%20Paths%20II) | [LeetCode](https://leetcode.com/problems/unique-paths-ii/) | Medium | 15 Sept 2026 | 09:07 pm |
+| 74 | [Decode Ways](./LeetCode/Medium/Decode%20Ways) | [LeetCode](https://leetcode.com/problems/decode-ways/) | Medium | 16 Sept 2026 | 11:51 pm |
