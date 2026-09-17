@@ -1,12 +1,12 @@
 {
-  "totalSolved": 76,
+  "totalSolved": 77,
   "currentStreak": 3,
   "maxStreak": 11,
   "lastSyncDate": "2026-09-17",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 23,
-    "medium": 39,
+    "medium": 40,
     "hard": 12,
     "basic": 2
   },
@@ -86,7 +86,8 @@
     "LeetCode_Unique_Paths": true,
     "LeetCode_Unique_Paths_II": true,
     "LeetCode_Decode_Ways": true,
-    "LeetCode_Partition_Equal_Subset_Sum": true
+    "LeetCode_Partition_Equal_Subset_Sum": true,
+    "LeetCode_Coin_Change": true
   },
   "activityHistory": {
     "2026-08-03": 7,
@@ -127,9 +128,10 @@
     "2026-09-13": 1,
     "2026-09-15": 4,
     "2026-09-16": 1,
-    "2026-09-17": 1
+    "2026-09-17": 2
   },
   "todayProblems": [
-    "Partition Equal Subset Sum"
+    "Partition Equal Subset Sum",
+    "Coin Change"
   ]
 }

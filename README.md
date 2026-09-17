@@ -75,3 +75,4 @@
 | 73 | [Unique Paths II](./LeetCode/Medium/Unique%20Paths%20II) | [LeetCode](https://leetcode.com/problems/unique-paths-ii/) | Medium | 15 Sept 2026 | 09:07 pm |
 | 74 | [Decode Ways](./LeetCode/Medium/Decode%20Ways) | [LeetCode](https://leetcode.com/problems/decode-ways/) | Medium | 16 Sept 2026 | 11:51 pm |
 | 75 | [Partition Equal Subset Sum](./LeetCode/Medium/Partition%20Equal%20Subset%20Sum) | [LeetCode](https://leetcode.com/problems/partition-equal-subset-sum/) | Medium | 17 Sept 2026 | 09:32 am |
+| 76 | [Coin Change](./LeetCode/Medium/Coin%20Change) | [LeetCode](https://leetcode.com/problems/coin-change/) | Medium | 17 Sept 2026 | 09:51 am |
