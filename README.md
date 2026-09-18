@@ -78,3 +78,4 @@
 | 76 | [Coin Change](./LeetCode/Medium/Coin%20Change) | [LeetCode](https://leetcode.com/problems/coin-change/) | Medium | 17 Sept 2026 | 09:51 am |
 | 77 | [Coin Change II](./LeetCode/Medium/Coin%20Change%20II) | [LeetCode](https://leetcode.com/problems/coin-change-ii/) | Medium | 17 Sept 2026 | 10:06 am |
 | 78 | [Target Sum](./LeetCode/Medium/Target%20Sum) | [LeetCode](https://leetcode.com/problems/target-sum/) | Medium | 17 Sept 2026 | 12:04 pm |
+| 79 | [BFS of Graph](./GeeksForGeeks/Medium/BFS%20of%20Graph) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/bfs-traversal-of-graph/1) | Medium | 18 Sept 2026 | 06:29 pm |
