@@ -1,12 +1,12 @@
 {
-  "totalSolved": 83,
+  "totalSolved": 84,
   "currentStreak": 5,
   "maxStreak": 11,
   "lastSyncDate": "2026-09-19",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 25,
-    "medium": 44,
+    "medium": 45,
     "hard": 12,
     "basic": 2
   },
@@ -93,7 +93,8 @@
     "GeeksForGeeks_BFS_of_Graph": true,
     "GeeksForGeeks_DFS_of_Graph": true,
     "LeetCode_Number_of_Provinces": true,
-    "LeetCode_Flood_Fill": true
+    "LeetCode_Flood_Fill": true,
+    "LeetCode_Number_of_Islands": true
   },
   "activityHistory": {
     "2026-08-03": 7,
@@ -136,9 +137,10 @@
     "2026-09-16": 1,
     "2026-09-17": 4,
     "2026-09-18": 3,
-    "2026-09-19": 1
+    "2026-09-19": 2
   },
   "todayProblems": [
-    "Flood Fill"
+    "Flood Fill",
+    "Number of Islands"
   ]
 }

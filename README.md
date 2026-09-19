@@ -82,3 +82,4 @@
 | 80 | [DFS of Graph](./GeeksForGeeks/Easy/DFS%20of%20Graph) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1) | Easy | 18 Sept 2026 | 06:45 pm |
 | 81 | [Number of Provinces](./LeetCode/Medium/Number%20of%20Provinces) | [LeetCode](https://leetcode.com/problems/number-of-provinces/) | Medium | 18 Sept 2026 | 10:12 pm |
 | 82 | [Flood Fill](./LeetCode/Easy/Flood%20Fill) | [LeetCode](https://leetcode.com/problems/flood-fill/) | Easy | 19 Sept 2026 | 10:29 am |
+| 83 | [Number of Islands](./LeetCode/Medium/Number%20of%20Islands) | [LeetCode](https://leetcode.com/problems/number-of-islands/) | Medium | 19 Sept 2026 | 10:42 am |
