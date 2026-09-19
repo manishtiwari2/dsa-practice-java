@@ -83,3 +83,4 @@
 | 81 | [Number of Provinces](./LeetCode/Medium/Number%20of%20Provinces) | [LeetCode](https://leetcode.com/problems/number-of-provinces/) | Medium | 18 Sept 2026 | 10:12 pm |
 | 82 | [Flood Fill](./LeetCode/Easy/Flood%20Fill) | [LeetCode](https://leetcode.com/problems/flood-fill/) | Easy | 19 Sept 2026 | 10:29 am |
 | 83 | [Number of Islands](./LeetCode/Medium/Number%20of%20Islands) | [LeetCode](https://leetcode.com/problems/number-of-islands/) | Medium | 19 Sept 2026 | 10:42 am |
+| 84 | [Rotting Oranges](./LeetCode/Medium/Rotting%20Oranges) | [LeetCode](https://leetcode.com/problems/rotting-oranges/) | Medium | 19 Sept 2026 | 11:35 am |
