@@ -88,3 +88,4 @@
 | 86 | [Find the Town Judge](./LeetCode/Easy/Find%20the%20Town%20Judge) | [LeetCode](https://leetcode.com/problems/find-the-town-judge/) | Easy | 23 Sept 2026 | 09:55 am |
 | 87 | [Is Graph Bipartite?](./LeetCode/Medium/Is%20Graph%20Bipartite%3F) | [LeetCode](https://leetcode.com/problems/is-graph-bipartite/) | Medium | 23 Sept 2026 | 04:32 pm |
 | 88 | [Possible Bipartition](./LeetCode/Medium/Possible%20Bipartition) | [LeetCode](https://leetcode.com/problems/possible-bipartition/) | Medium | 23 Sept 2026 | 04:56 pm |
+| 89 | [1A - Theatre Square](./Codeforces/basic/1A%20-%20Theatre%20Square) | [Codeforces](https://codeforces.com/problemset/problem/1/A) | basic | 23 Sept 2026 | 08:46 pm |
