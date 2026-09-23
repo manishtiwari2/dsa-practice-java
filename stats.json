@@ -1,12 +1,12 @@
 {
-  "totalSolved": 87,
+  "totalSolved": 88,
   "currentStreak": 2,
   "maxStreak": 11,
   "lastSyncDate": "2026-09-23",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 26,
-    "medium": 47,
+    "medium": 48,
     "hard": 12,
     "basic": 2
   },
@@ -97,7 +97,8 @@
     "LeetCode_Number_of_Islands": true,
     "LeetCode_Rotting_Oranges": true,
     "LeetCode_Shortest_Path_in_Binary_Matrix": true,
-    "LeetCode_Find_the_Town_Judge": true
+    "LeetCode_Find_the_Town_Judge": true,
+    "LeetCode_Is_Graph_Bipartite?": true
   },
   "activityHistory": {
     "2026-08-03": 7,
@@ -142,9 +143,10 @@
     "2026-09-18": 3,
     "2026-09-19": 3,
     "2026-09-22": 1,
-    "2026-09-23": 1
+    "2026-09-23": 2
   },
   "todayProblems": [
-    "Find the Town Judge"
+    "Find the Town Judge",
+    "Is Graph Bipartite?"
   ]
 }

@@ -86,3 +86,4 @@
 | 84 | [Rotting Oranges](./LeetCode/Medium/Rotting%20Oranges) | [LeetCode](https://leetcode.com/problems/rotting-oranges/) | Medium | 19 Sept 2026 | 11:35 am |
 | 85 | [Shortest Path in Binary Matrix](./LeetCode/Medium/Shortest%20Path%20in%20Binary%20Matrix) | [LeetCode](https://leetcode.com/problems/shortest-path-in-binary-matrix/) | Medium | 22 Sept 2026 | 04:22 pm |
 | 86 | [Find the Town Judge](./LeetCode/Easy/Find%20the%20Town%20Judge) | [LeetCode](https://leetcode.com/problems/find-the-town-judge/) | Easy | 23 Sept 2026 | 09:55 am |
+| 87 | [Is Graph Bipartite?](./LeetCode/Medium/Is%20Graph%20Bipartite%3F) | [LeetCode](https://leetcode.com/problems/is-graph-bipartite/) | Medium | 23 Sept 2026 | 04:32 pm |
