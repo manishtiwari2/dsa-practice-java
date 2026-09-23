@@ -85,3 +85,4 @@
 | 83 | [Number of Islands](./LeetCode/Medium/Number%20of%20Islands) | [LeetCode](https://leetcode.com/problems/number-of-islands/) | Medium | 19 Sept 2026 | 10:42 am |
 | 84 | [Rotting Oranges](./LeetCode/Medium/Rotting%20Oranges) | [LeetCode](https://leetcode.com/problems/rotting-oranges/) | Medium | 19 Sept 2026 | 11:35 am |
 | 85 | [Shortest Path in Binary Matrix](./LeetCode/Medium/Shortest%20Path%20in%20Binary%20Matrix) | [LeetCode](https://leetcode.com/problems/shortest-path-in-binary-matrix/) | Medium | 22 Sept 2026 | 04:22 pm |
+| 86 | [Find the Town Judge](./LeetCode/Easy/Find%20the%20Town%20Judge) | [LeetCode](https://leetcode.com/problems/find-the-town-judge/) | Easy | 23 Sept 2026 | 09:55 am |

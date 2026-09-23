@@ -1,11 +1,11 @@
 {
-  "totalSolved": 86,
-  "currentStreak": 1,
+  "totalSolved": 87,
+  "currentStreak": 2,
   "maxStreak": 11,
-  "lastSyncDate": "2026-09-22",
+  "lastSyncDate": "2026-09-23",
   "todayCount": 1,
   "difficultyCounts": {
-    "easy": 25,
+    "easy": 26,
     "medium": 47,
     "hard": 12,
     "basic": 2
@@ -96,7 +96,8 @@
     "LeetCode_Flood_Fill": true,
     "LeetCode_Number_of_Islands": true,
     "LeetCode_Rotting_Oranges": true,
-    "LeetCode_Shortest_Path_in_Binary_Matrix": true
+    "LeetCode_Shortest_Path_in_Binary_Matrix": true,
+    "LeetCode_Find_the_Town_Judge": true
   },
   "activityHistory": {
     "2026-08-03": 7,
@@ -140,9 +141,10 @@
     "2026-09-17": 4,
     "2026-09-18": 3,
     "2026-09-19": 3,
-    "2026-09-22": 1
+    "2026-09-22": 1,
+    "2026-09-23": 1
   },
   "todayProblems": [
-    "Shortest Path in Binary Matrix"
+    "Find the Town Judge"
   ]
 }
