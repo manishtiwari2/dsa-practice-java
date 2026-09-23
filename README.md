@@ -92,3 +92,4 @@
 | 90 | [4A - Watermelon](./Codeforces/basic/4A%20-%20Watermelon) | [Codeforces](https://codeforces.com/problemset/problem/4/A) | basic | 23 Sept 2026 | 08:46 pm |
 | 91 | [279B - Books](./Codeforces/basic/279B%20-%20Books) | [Codeforces](https://codeforces.com/problemset/problem/279/B) | basic | 23 Sept 2026 | 08:46 pm |
 | 92 | [381A - Sereja and Dima](./Codeforces/basic/381A%20-%20Sereja%20and%20Dima) | [Codeforces](https://codeforces.com/problemset/problem/381/A) | basic | 23 Sept 2026 | 08:46 pm |
+| 93 | [Count the Number of Complete Components](./LeetCode/Medium/Count%20the%20Number%20of%20Complete%20Components) | [LeetCode](https://leetcode.com/problems/count-the-number-of-complete-components/) | Medium | 23 Sept 2026 | 09:29 pm |
