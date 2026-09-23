@@ -1,0 +1,42 @@
+import java.util.*;
+
+public class Main {
+    public static void main(String[] args){
+        Scanner sc = new Scanner(System.in);
+        
+        int n = sc.nextInt();
+        int[] cards = new int[n];
+        
+        for(int i = 0; i < n; i++){
+            cards[i] = sc.nextInt();
+        }
+        
+        int sereja = 0, dima = 0;
+        
+        int left = 0;
+        int right = n - 1;
+        boolean isSereja = true;
+        
+        while(left <= right){
+            int chosen;
+
+            if(cards[left] > cards[right]){
+                chosen = cards[left];
+                left++;
+            } else {
+                chosen = cards[right];
+                right--;
+            }
+
+            if(isSereja){
+                sereja += chosen;
+            } else {
+                dima += chosen;
+            }
+            isSereja = !isSereja;
+        }
+        
+        System.out.println(sereja + " " + dima);
+        sc.close();
+    }
+}
