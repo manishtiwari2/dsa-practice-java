@@ -1,12 +1,12 @@
 {
-  "totalSolved": 95,
+  "totalSolved": 96,
   "currentStreak": 3,
   "maxStreak": 11,
   "lastSyncDate": "2026-09-24",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 26,
-    "medium": 51,
+    "medium": 52,
     "hard": 12,
     "basic": 6
   },
@@ -105,7 +105,8 @@
     "Codeforces_279B_-_Books": true,
     "Codeforces_381A_-_Sereja_and_Dima": true,
     "LeetCode_Count_the_Number_of_Complete_Components": true,
-    "LeetCode_Find_Eventual_Safe_States": true
+    "LeetCode_Find_Eventual_Safe_States": true,
+    "GeeksForGeeks_Dijkstra_Algorithm": true
   },
   "activityHistory": {
     "2026-08-03": 7,
@@ -151,9 +152,10 @@
     "2026-09-19": 3,
     "2026-09-22": 1,
     "2026-09-23": 8,
-    "2026-09-24": 1
+    "2026-09-24": 2
   },
   "todayProblems": [
-    "Find Eventual Safe States"
+    "Find Eventual Safe States",
+    "Dijkstra Algorithm"
   ]
 }
