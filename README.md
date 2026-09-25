@@ -95,3 +95,4 @@
 | 93 | [Count the Number of Complete Components](./LeetCode/Medium/Count%20the%20Number%20of%20Complete%20Components) | [LeetCode](https://leetcode.com/problems/count-the-number-of-complete-components/) | Medium | 23 Sept 2026 | 09:29 pm |
 | 94 | [Find Eventual Safe States](./LeetCode/Medium/Find%20Eventual%20Safe%20States) | [LeetCode](https://leetcode.com/problems/find-eventual-safe-states/) | Medium | 24 Sept 2026 | 08:31 am |
 | 95 | [Dijkstra Algorithm](./GeeksForGeeks/Medium/Dijkstra%20Algorithm) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/implementing-dijkstra-set-1-adjacency-matrix/1) | Medium | 24 Sept 2026 | 11:05 pm |
+| 96 | [Network Delay Time](./LeetCode/Medium/Network%20Delay%20Time) | [LeetCode](https://leetcode.com/problems/network-delay-time/) | Medium | 25 Sept 2026 | 08:30 pm |
