@@ -1,12 +1,12 @@
 {
-  "totalSolved": 98,
+  "totalSolved": 99,
   "currentStreak": 5,
   "maxStreak": 11,
   "lastSyncDate": "2026-09-26",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 26,
-    "medium": 54,
+    "medium": 55,
     "hard": 12,
     "basic": 6
   },
@@ -108,7 +108,8 @@
     "LeetCode_Find_Eventual_Safe_States": true,
     "GeeksForGeeks_Dijkstra_Algorithm": true,
     "LeetCode_Network_Delay_Time": true,
-    "LeetCode_Path_With_Minimum_Effort": true
+    "LeetCode_Path_With_Minimum_Effort": true,
+    "GeeksForGeeks_Bellman_Ford": true
   },
   "activityHistory": {
     "2026-08-03": 7,
@@ -156,9 +157,10 @@
     "2026-09-23": 8,
     "2026-09-24": 2,
     "2026-09-25": 1,
-    "2026-09-26": 1
+    "2026-09-26": 2
   },
   "todayProblems": [
-    "Path With Minimum Effort"
+    "Path With Minimum Effort",
+    "Bellman Ford"
   ]
 }
