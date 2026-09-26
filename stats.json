@@ -1,12 +1,12 @@
 {
-  "totalSolved": 97,
-  "currentStreak": 4,
+  "totalSolved": 98,
+  "currentStreak": 5,
   "maxStreak": 11,
-  "lastSyncDate": "2026-09-25",
+  "lastSyncDate": "2026-09-26",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 26,
-    "medium": 53,
+    "medium": 54,
     "hard": 12,
     "basic": 6
   },
@@ -107,7 +107,8 @@
     "LeetCode_Count_the_Number_of_Complete_Components": true,
     "LeetCode_Find_Eventual_Safe_States": true,
     "GeeksForGeeks_Dijkstra_Algorithm": true,
-    "LeetCode_Network_Delay_Time": true
+    "LeetCode_Network_Delay_Time": true,
+    "LeetCode_Path_With_Minimum_Effort": true
   },
   "activityHistory": {
     "2026-08-03": 7,
@@ -154,9 +155,10 @@
     "2026-09-22": 1,
     "2026-09-23": 8,
     "2026-09-24": 2,
-    "2026-09-25": 1
+    "2026-09-25": 1,
+    "2026-09-26": 1
   },
   "todayProblems": [
-    "Network Delay Time"
+    "Path With Minimum Effort"
   ]
 }

@@ -96,3 +96,4 @@
 | 94 | [Find Eventual Safe States](./LeetCode/Medium/Find%20Eventual%20Safe%20States) | [LeetCode](https://leetcode.com/problems/find-eventual-safe-states/) | Medium | 24 Sept 2026 | 08:31 am |
 | 95 | [Dijkstra Algorithm](./GeeksForGeeks/Medium/Dijkstra%20Algorithm) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/implementing-dijkstra-set-1-adjacency-matrix/1) | Medium | 24 Sept 2026 | 11:05 pm |
 | 96 | [Network Delay Time](./LeetCode/Medium/Network%20Delay%20Time) | [LeetCode](https://leetcode.com/problems/network-delay-time/) | Medium | 25 Sept 2026 | 08:30 pm |
+| 97 | [Path With Minimum Effort](./LeetCode/Medium/Path%20With%20Minimum%20Effort) | [LeetCode](https://leetcode.com/problems/path-with-minimum-effort/) | Medium | 26 Sept 2026 | 03:47 pm |
