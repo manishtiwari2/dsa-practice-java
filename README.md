@@ -99,3 +99,4 @@
 | 97 | [Path With Minimum Effort](./LeetCode/Medium/Path%20With%20Minimum%20Effort) | [LeetCode](https://leetcode.com/problems/path-with-minimum-effort/) | Medium | 26 Sept 2026 | 03:47 pm |
 | 98 | [Bellman Ford](./GeeksForGeeks/Medium/Bellman%20Ford) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/distance-from-the-source-bellman-ford-algorithm/1) | Medium | 26 Sept 2026 | 04:35 pm |
 | 99 | [Cheapest Flights Within K Stops](./LeetCode/Medium/Cheapest%20Flights%20Within%20K%20Stops) | [LeetCode](https://leetcode.com/problems/cheapest-flights-within-k-stops/) | Medium | 27 Sept 2026 | 09:00 pm |
+| 100 | [Path with Maximum Probability](./LeetCode/Medium/Path%20with%20Maximum%20Probability) | [LeetCode](https://leetcode.com/problems/path-with-maximum-probability/) | Medium | 28 Sept 2026 | 06:44 pm |

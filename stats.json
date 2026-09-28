@@ -1,12 +1,12 @@
 {
-  "totalSolved": 100,
-  "currentStreak": 6,
+  "totalSolved": 101,
+  "currentStreak": 7,
   "maxStreak": 11,
-  "lastSyncDate": "2026-09-27",
+  "lastSyncDate": "2026-09-28",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 26,
-    "medium": 56,
+    "medium": 57,
     "hard": 12,
     "basic": 6
   },
@@ -110,7 +110,8 @@
     "LeetCode_Network_Delay_Time": true,
     "LeetCode_Path_With_Minimum_Effort": true,
     "GeeksForGeeks_Bellman_Ford": true,
-    "LeetCode_Cheapest_Flights_Within_K_Stops": true
+    "LeetCode_Cheapest_Flights_Within_K_Stops": true,
+    "LeetCode_Path_with_Maximum_Probability": true
   },
   "activityHistory": {
     "2026-08-03": 7,
@@ -159,9 +160,10 @@
     "2026-09-24": 2,
     "2026-09-25": 1,
     "2026-09-26": 2,
-    "2026-09-27": 1
+    "2026-09-27": 1,
+    "2026-09-28": 1
   },
   "todayProblems": [
-    "Cheapest Flights Within K Stops"
+    "Path with Maximum Probability"
   ]
 }
