@@ -100,3 +100,4 @@
 | 98 | [Bellman Ford](./GeeksForGeeks/Medium/Bellman%20Ford) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/distance-from-the-source-bellman-ford-algorithm/1) | Medium | 26 Sept 2026 | 04:35 pm |
 | 99 | [Cheapest Flights Within K Stops](./LeetCode/Medium/Cheapest%20Flights%20Within%20K%20Stops) | [LeetCode](https://leetcode.com/problems/cheapest-flights-within-k-stops/) | Medium | 27 Sept 2026 | 09:00 pm |
 | 100 | [Path with Maximum Probability](./LeetCode/Medium/Path%20with%20Maximum%20Probability) | [LeetCode](https://leetcode.com/problems/path-with-maximum-probability/) | Medium | 28 Sept 2026 | 06:44 pm |
+| 101 | [Minimum Cost to Make at Least One Valid Path in a Grid](./LeetCode/Hard/Minimum%20Cost%20to%20Make%20at%20Least%20One%20Valid%20Path%20in%20a%20Grid) | [LeetCode](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | Hard | 28 Sept 2026 | 07:10 pm |
