@@ -1,12 +1,12 @@
 {
-  "totalSolved": 102,
-  "currentStreak": 7,
+  "totalSolved": 103,
+  "currentStreak": 8,
   "maxStreak": 11,
-  "lastSyncDate": "2026-09-28",
-  "todayCount": 2,
+  "lastSyncDate": "2026-09-29",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 26,
-    "medium": 57,
+    "medium": 58,
     "hard": 13,
     "basic": 6
   },
@@ -112,7 +112,8 @@
     "GeeksForGeeks_Bellman_Ford": true,
     "LeetCode_Cheapest_Flights_Within_K_Stops": true,
     "LeetCode_Path_with_Maximum_Probability": true,
-    "LeetCode_Minimum_Cost_to_Make_at_Least_One_Valid_Path_in_a_Grid": true
+    "LeetCode_Minimum_Cost_to_Make_at_Least_One_Valid_Path_in_a_Grid": true,
+    "GeeksForGeeks_Negative_Weight_Cycle": true
   },
   "activityHistory": {
     "2026-08-03": 7,
@@ -162,10 +163,10 @@
     "2026-09-25": 1,
     "2026-09-26": 2,
     "2026-09-27": 1,
-    "2026-09-28": 2
+    "2026-09-28": 2,
+    "2026-09-29": 1
   },
   "todayProblems": [
-    "Path with Maximum Probability",
-    "Minimum Cost to Make at Least One Valid Path in a Grid"
+    "Negative Weight Cycle"
   ]
 }
