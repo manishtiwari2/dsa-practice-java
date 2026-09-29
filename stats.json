@@ -1,12 +1,12 @@
 {
-  "totalSolved": 103,
+  "totalSolved": 104,
   "currentStreak": 8,
   "maxStreak": 11,
   "lastSyncDate": "2026-09-29",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 26,
-    "medium": 58,
+    "medium": 59,
     "hard": 13,
     "basic": 6
   },
@@ -113,7 +113,8 @@
     "LeetCode_Cheapest_Flights_Within_K_Stops": true,
     "LeetCode_Path_with_Maximum_Probability": true,
     "LeetCode_Minimum_Cost_to_Make_at_Least_One_Valid_Path_in_a_Grid": true,
-    "GeeksForGeeks_Negative_Weight_Cycle": true
+    "GeeksForGeeks_Negative_Weight_Cycle": true,
+    "LeetCode_Number_of_Ways_to_Arrive_at_Destination": true
   },
   "activityHistory": {
     "2026-08-03": 7,
@@ -164,9 +165,10 @@
     "2026-09-26": 2,
     "2026-09-27": 1,
     "2026-09-28": 2,
-    "2026-09-29": 1
+    "2026-09-29": 2
   },
   "todayProblems": [
-    "Negative Weight Cycle"
+    "Negative Weight Cycle",
+    "Number of Ways to Arrive at Destination"
   ]
 }
