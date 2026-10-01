@@ -103,3 +103,4 @@
 | 101 | [Minimum Cost to Make at Least One Valid Path in a Grid](./LeetCode/Hard/Minimum%20Cost%20to%20Make%20at%20Least%20One%20Valid%20Path%20in%20a%20Grid) | [LeetCode](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | Hard | 28 Sept 2026 | 07:10 pm |
 | 102 | [Negative Weight Cycle](./GeeksForGeeks/Medium/Negative%20Weight%20Cycle) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/negative-weight-cycle3504/1) | Medium | 29 Sept 2026 | 08:23 am |
 | 103 | [Number of Ways to Arrive at Destination](./LeetCode/Medium/Number%20of%20Ways%20to%20Arrive%20at%20Destination) | [LeetCode](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/) | Medium | 29 Sept 2026 | 11:58 pm |
+| 104 | [Valid Parentheses](./LeetCode/Easy/Valid%20Parentheses) | [LeetCode](https://leetcode.com/problems/valid-parentheses/) | Easy | 01 Oct 2026 | 06:22 pm |
