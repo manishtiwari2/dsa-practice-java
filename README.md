@@ -104,3 +104,4 @@
 | 102 | [Negative Weight Cycle](./GeeksForGeeks/Medium/Negative%20Weight%20Cycle) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/negative-weight-cycle3504/1) | Medium | 29 Sept 2026 | 08:23 am |
 | 103 | [Number of Ways to Arrive at Destination](./LeetCode/Medium/Number%20of%20Ways%20to%20Arrive%20at%20Destination) | [LeetCode](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/) | Medium | 29 Sept 2026 | 11:58 pm |
 | 104 | [Valid Parentheses](./LeetCode/Easy/Valid%20Parentheses) | [LeetCode](https://leetcode.com/problems/valid-parentheses/) | Easy | 01 Oct 2026 | 06:22 pm |
+| 105 | [Generate Parentheses](./LeetCode/Medium/Generate%20Parentheses) | [LeetCode](https://leetcode.com/problems/generate-parentheses/) | Medium | 03 Oct 2026 | 01:37 pm |

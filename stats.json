@@ -1,12 +1,12 @@
 {
-  "totalSolved": 105,
+  "totalSolved": 106,
   "currentStreak": 1,
   "maxStreak": 11,
-  "lastSyncDate": "2026-10-01",
+  "lastSyncDate": "2026-10-03",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 27,
-    "medium": 59,
+    "medium": 60,
     "hard": 13,
     "basic": 6
   },
@@ -115,7 +115,8 @@
     "LeetCode_Minimum_Cost_to_Make_at_Least_One_Valid_Path_in_a_Grid": true,
     "GeeksForGeeks_Negative_Weight_Cycle": true,
     "LeetCode_Number_of_Ways_to_Arrive_at_Destination": true,
-    "LeetCode_Valid_Parentheses": true
+    "LeetCode_Valid_Parentheses": true,
+    "LeetCode_Generate_Parentheses": true
   },
   "activityHistory": {
     "2026-08-03": 7,
@@ -167,9 +168,10 @@
     "2026-09-27": 1,
     "2026-09-28": 2,
     "2026-09-29": 2,
-    "2026-10-01": 1
+    "2026-10-01": 1,
+    "2026-10-03": 1
   },
   "todayProblems": [
-    "Valid Parentheses"
+    "Generate Parentheses"
   ]
 }
