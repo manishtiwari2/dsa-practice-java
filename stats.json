@@ -1,13 +1,13 @@
 {
-  "totalSolved": 106,
+  "totalSolved": 107,
   "currentStreak": 1,
   "maxStreak": 11,
   "lastSyncDate": "2026-10-03",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 27,
     "medium": 60,
-    "hard": 13,
+    "hard": 14,
     "basic": 6
   },
   "syncedProblems": {
@@ -116,7 +116,8 @@
     "GeeksForGeeks_Negative_Weight_Cycle": true,
     "LeetCode_Number_of_Ways_to_Arrive_at_Destination": true,
     "LeetCode_Valid_Parentheses": true,
-    "LeetCode_Generate_Parentheses": true
+    "LeetCode_Generate_Parentheses": true,
+    "LeetCode_Longest_Valid_Parentheses": true
   },
   "activityHistory": {
     "2026-08-03": 7,
@@ -169,9 +170,10 @@
     "2026-09-28": 2,
     "2026-09-29": 2,
     "2026-10-01": 1,
-    "2026-10-03": 1
+    "2026-10-03": 2
   },
   "todayProblems": [
-    "Generate Parentheses"
+    "Generate Parentheses",
+    "Longest Valid Parentheses"
   ]
 }

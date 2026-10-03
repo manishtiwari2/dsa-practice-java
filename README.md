@@ -105,3 +105,4 @@
 | 103 | [Number of Ways to Arrive at Destination](./LeetCode/Medium/Number%20of%20Ways%20to%20Arrive%20at%20Destination) | [LeetCode](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/) | Medium | 29 Sept 2026 | 11:58 pm |
 | 104 | [Valid Parentheses](./LeetCode/Easy/Valid%20Parentheses) | [LeetCode](https://leetcode.com/problems/valid-parentheses/) | Easy | 01 Oct 2026 | 06:22 pm |
 | 105 | [Generate Parentheses](./LeetCode/Medium/Generate%20Parentheses) | [LeetCode](https://leetcode.com/problems/generate-parentheses/) | Medium | 03 Oct 2026 | 01:37 pm |
+| 106 | [Longest Valid Parentheses](./LeetCode/Hard/Longest%20Valid%20Parentheses) | [LeetCode](https://leetcode.com/problems/longest-valid-parentheses/) | Hard | 03 Oct 2026 | 01:51 pm |
