@@ -1,12 +1,12 @@
 {
-  "totalSolved": 110,
-  "currentStreak": 2,
+  "totalSolved": 111,
+  "currentStreak": 3,
   "maxStreak": 11,
-  "lastSyncDate": "2026-10-04",
-  "todayCount": 3,
+  "lastSyncDate": "2026-10-05",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 28,
-    "medium": 62,
+    "medium": 63,
     "hard": 14,
     "basic": 6
   },
@@ -120,7 +120,8 @@
     "LeetCode_Longest_Valid_Parentheses": true,
     "GeeksForGeeks_Roman_to_Integer": true,
     "LeetCode_String_to_Integer_(atoi)": true,
-    "LeetCode_Valid_Parenthesis_String": true
+    "LeetCode_Valid_Parenthesis_String": true,
+    "LeetCode_Score_of_Parentheses": true
   },
   "activityHistory": {
     "2026-08-03": 7,
@@ -174,11 +175,10 @@
     "2026-09-29": 2,
     "2026-10-01": 1,
     "2026-10-03": 2,
-    "2026-10-04": 3
+    "2026-10-04": 3,
+    "2026-10-05": 1
   },
   "todayProblems": [
-    "Roman to Integer",
-    "String to Integer (atoi)",
-    "Valid Parenthesis String"
+    "Score of Parentheses"
   ]
 }

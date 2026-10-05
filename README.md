@@ -109,3 +109,4 @@
 | 107 | [Roman to Integer](./GeeksForGeeks/Easy/Roman%20to%20Integer) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/roman-number-to-integer3201/1) | Easy | 04 Oct 2026 | 09:17 am |
 | 108 | [String to Integer (atoi)](./LeetCode/Medium/String%20to%20Integer%20(atoi)) | [LeetCode](https://leetcode.com/problems/string-to-integer-atoi/) | Medium | 04 Oct 2026 | 09:38 am |
 | 109 | [Valid Parenthesis String](./LeetCode/Medium/Valid%20Parenthesis%20String) | [LeetCode](https://leetcode.com/problems/valid-parenthesis-string/) | Medium | 04 Oct 2026 | 04:58 pm |
+| 110 | [Score of Parentheses](./LeetCode/Medium/Score%20of%20Parentheses) | [LeetCode](https://leetcode.com/problems/score-of-parentheses/) | Medium | 05 Oct 2026 | 02:41 pm |
